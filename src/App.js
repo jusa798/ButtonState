@@ -27,3 +27,5 @@ function App() {
 }
 
 export default App;
+
+//homework 2 will be to add input and submit button, which becomes the state of number
